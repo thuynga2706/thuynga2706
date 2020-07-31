@@ -1,11 +1,21 @@
 ### Hi there 👋
 
+🔭 I'm master student in Operations Research, specialized in Transportation and Logistics. My motivation is to make life easier with mathematics. Isn't it amazing that most of our real life problems can be mathematically formulated and solved by programs? 
+
+🌱 Currenly I'm working on Data Analytics in Retails, and eager to apply ML algorithms in real life problems. 
+
+⚡ Fun fact: I have exceptional interest in food. Check [Grocery-Optimization](https://github.com/thuynga2706/Grocery-Optimization) how I use Linear Programming to minimize my pocket 
+
+📫 If we share the same goal and interest, don't hestitate to reach me by my [email](mailto:thuynga2706@gmail.com)
+
+
+
 <!--
 **thuynga2706/thuynga2706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
