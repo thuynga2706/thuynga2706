@@ -4,7 +4,7 @@
 
 🌱 Currenly I'm working on Data Analytics in Retails, and eager to apply ML algorithms in real life problems. 
 
-⚡ Fun fact: I have exceptional interest in food. Check [Grocery-Optimization](https://github.com/thuynga2706/Grocery-Optimization) to see how I use Linear Programming to minimize my pocket and still intake nutrious food.
+⚡ Fun fact: I have exceptional interest in food. Check [Grocery-Optimization](https://github.com/thuynga2706/Grocery-Optimization) to see how I use Linear Programming to minimize my pocket and still intake nutrious food. If you wanna know how Q learning can be used for solving Scheduling problem, check [this](https://github.com/thuynga2706/Q-learning-for-Permutation-Flow-shop-Scheduling) out
 
 📫 If we share the same goal and interest, don't hestitate to reach me by my [email](mailto:thuynga2706@gmail.com)
 
