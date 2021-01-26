@@ -2,7 +2,7 @@
 
 🔭 I'm master student in Operations Research, specialized in Transportation and Logistics. My motivation is to make life easier with mathematics. Isn't it amazing that most of our real life problems can be mathematically formulated and solved by programs? 
 
-🌱 Currenly I'm working on Data Analytics in Retails, and eager to apply ML algorithms in real life problems. 
+🌱 Currenly I'm working on Data Analytics and Data Engineering projects. I'm eager to learn new stuffs and so much passionate about applying mathematics to real-life problems. 
 
 ⚡ Fun fact: I have exceptional interest in food. Check [Grocery-Optimization](https://github.com/thuynga2706/Grocery-Optimization) to see how I use Linear Programming to minimize my pocket and still intake nutrious food. If you wanna know how Q learning can be used for solving Scheduling problem, check [this](https://github.com/thuynga2706/Q-learning-for-Permutation-Flow-shop-Scheduling) out
 
